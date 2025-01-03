@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=300&size=37&duration=3000&pause=100&color=000000&background=601D6E00&center=true&vCenter=true&repeat=true&random=FALSO&width=660&height=90&lines=IamBearBG+lanzó+la mejor+versión;De+Yumeko AI - 2.0.0;Con+nuevos+comandos+y+mejoras;Yumeko-AI+La+Mejor Bot+De+WhatsApp" alt="Typing SVG"/></a>
 </div>
 
-<a href="https://api.whatsapp.com/send/?phone=+51939658716&text=Hola 👋 soporte de Yumeko Bot &type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp"
+<a href="https://api.whatsapp.com/send/?phone=+51939658716&text=Hola 👋 soporte de Yumeko Bot &type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 ### **`❕️Información importante`**
 
 <details>
