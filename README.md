@@ -11,21 +11,21 @@
 ### **`❕️Información importante`**
 
 <details>
- <summary><b> 🤍 Nota Importante </b></summary>
+ <summary><b> 🚩 Nota Importante </b></summary>
 
 Este proyecto **no está afiliado de ninguna manera** con `WhatsApp`, `Inc. WhatsApp` es una marca registrada de `WhatsApp LLC`, y este bot es un **desarrollo independiente** que **no tiene ninguna relación oficial con la companía**.
 
 </details>
 
 <details>
- <summary><b> 🤍 Importante </b></summary>
+ <summary><b> 🚩 Importante </b></summary>
 
 YumekoBot-MD recibe **soporte semanal** si llegas a ver un error **repetitivamente o presenta fallos** solo repórtelo para que lo solucionemos
 
 </details>
 
 <details>
- <summary><b> 🤍 Versión 2.0.0</b></summary>
+ <summary><b> 🚩 Versión 2.0.0</b></summary>
 
 * **Este proyecto no ofrece soporte oficial para su uso en Termux.** Termux es una aplicación de terminal para Android y, aunque puede ser utilizada para ejecutar diversos programas, **este proyecto no está diseñado ni probado específicamente para funcionar en Termux**. Por lo tanto, **no garantizamos compatibilidad ni soporte técnico en este entorno**.
 
