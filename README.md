@@ -8,8 +8,7 @@
 </div>
 
 <a href="https://api.whatsapp.com/send/?phone=+51939658716&text=Hola 👋 soporte de Yumeko Bot &type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
- <a href="https://x.com/usxr_angelito0" target="blank"><img src="https://img.shields.io/badge/Twitter-30302f?style=flat&logo=x" /></a>
-
+ <a 
 ### **`❕️Información importante`**
 
 <details>
@@ -22,7 +21,7 @@ Este proyecto **no está afiliado de ninguna manera** con `WhatsApp`, `Inc. What
 <details>
  <summary><b> 🤍 Importante </b></summary>
 
-GenesisBot-MD recibe **soporte semanal** si llegas a ver un error **repetitivamente o presenta fallos** solo repórtelo para que lo solucionemos
+YumekoBot-MD recibe **soporte semanal** si llegas a ver un error **repetitivamente o presenta fallos** solo repórtelo para que lo solucionemos
 
 </details>
 
