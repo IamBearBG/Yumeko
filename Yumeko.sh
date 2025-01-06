@@ -169,21 +169,21 @@ fi
 clear
 echo -e "\e[36m
 ┏━━━━━━━━━⪩
-┃˚₊ · ͟͟͞͞➳❥ 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐈𝐎́𝐍
-┃⏤͟͟͞͞𝐘𝐀𝐄𝐌𝐎𝐑𝐈 𝐁𝐎𝐓 - 𝐌𝐃
+┃˚₊ · ͟͟͞͞➳❥ INFORMACIÓN
+┃⏤͟͟͞͞YUMEKO
 ┗━━━━━━━━━⪩
 
 ✰ Mode by:
-» DevDiego
+» IamBearBG
 ✰ Youtube:
-» https://www.youtube.com/@OfcDiego
+» https://www.youtube.com/@IamBearBG
 ✰ GitHub:
-» https://github.com/Dev-Diego
+» https://github.com/IamBearBG/Yumeko
 ✰ Numero:
-» +54 9 3876 43-2076
+» +51 939 658 716
 
 𝐆 𝐑 𝐀 𝐂 𝐈 𝐀 𝐒, 𝐏 𝐎 𝐑, 𝐏 𝐑 𝐄 𝐅 𝐄 𝐑 𝐈 𝐑 𝐍 𝐎 𝐒\n\e[0m"
 
 
-echo -e "\033[01;32m\033[01mIniciando YaemoriBot 🌻🌸\nAi Yaemori - MD\n\033[0m"
+echo -e "\033[01;32m\033[01mIniciando Yumeko 🦁\nYumeko\n\033[0m"
 npm start
