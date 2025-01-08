@@ -67,8 +67,8 @@ global.catalogo = fs.readFileSync('./src/catalogo.png')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = 'https://chat.whatsapp.com/LGFhgOIlxIJJN0U8EF90rQ'
-global.group2 = 'https://chat.whatsapp.com/LGFhgOIlxIJJN0U8EF90rQ'
+global.group = 'https://chat.whatsapp.com/CCHrnw3MCTxKDEMPAVeDJs'
+global.group2 = 'https://chat.whatsapp.com/CCHrnw3MCTxKDEMPAVeDJs'
 global.canal = 'https://whatsapp.com/channel/0029Vb2NkWWFsn0ghn9mOA2G'
 global.github = 'https://github.com/IamBearBG/Yumeko' 
 global.instagram = '' 
