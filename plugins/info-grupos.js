@@ -14,7 +14,7 @@ let txt = `*Hola!, te invito a unirte a los grupos oficiales de la Bot para conv
 ➠ Enlace anulado? entre aquí! 
 
 Canal Yumeko Bot :
-*✧* https://whatsapp.com/channel/0029VaJxgcB0bIdvuOwKTM2Y
+*✧* https://whatsapp.com/channel/0029Vb2NkWWFsn0ghn9mOA2G
 
 > ${dev}`
 await conn.sendFile(m.chat, img, "Thumbnail.jpg", txt, m, null, fake)
